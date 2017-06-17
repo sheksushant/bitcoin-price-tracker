@@ -1,8 +1,8 @@
 {
   "name": "bitcoin-price",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple Bitcoin Price Requester Using CoinDesk API.",
-  "main": "app.js",
+  "main": "price.js",
   "dependencies": {
     "request": "^2.81.0"
   },
