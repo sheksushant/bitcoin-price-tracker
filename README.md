@@ -7,7 +7,7 @@ Download the Files of the project.
 
 Navigate to bitcoin-price-tracker folder..
 ```
-  cd ~/itcoin-price-tracker-master
+  cd ~/bitcoin-price-tracker-master
   ```
 Install Dependencies :
 ```
