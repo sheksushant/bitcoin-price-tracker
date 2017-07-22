@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-price",
+  "name": "bitcoin-price-tracker",
   "version": "0.0.1",
   "description": "A simple Bitcoin Price Requester Using CoinDesk API.",
   "main": "price.js",
